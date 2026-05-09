@@ -10,4 +10,4 @@ git clone https://github.com/MIWA-OPTIX/OPTIX-ANDROID.git
 
 cd OPTIX-ANDROID
 
-python start_miwa.py
+python miwa.py
